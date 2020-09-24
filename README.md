@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Bem vindo ao meu github!
+
+
+# Meu nome é Diego Corrêa Couto [![linkedin](https://user-images.githubusercontent.com/56324728/87433331-91935a00-c5bf-11ea-8f60-63cc95788ee6.png)](https://www.linkedin.com/in/diegocorreacouto/) 
+
+### Analista Desenvolvedor na [**TO Brasil**](https://to-brasil.com/)
+
+- Estou em constante **desenvolvimento** e sempre buscando **aprimorar e adquirir novos conhecimento**s, além de estar sempre me **desafiando**, o que me motiva a descobrir melhores soluções.
+- Me considero **dedicado, autodidata, próativo, focado e com perfil de trabalho em equipe e liderança**.
+- Atualmente trabalho e foco meu estudo em **Java**, VRaptor, Spring Boot, APIs REST, **Angular**, typescript e javascript.
 
 <!--
 **dccouto/dccouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
