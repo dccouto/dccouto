@@ -1,5 +1,6 @@
 ### 👋 Bem vindo ao meu github!
 
+# Diego Couto :point_right: <img src="https://komarev.com/ghpvc/?username=dccouto" alt="dccouto" />
 
 # Meu nome é Diego Corrêa Couto [![linkedin](https://user-images.githubusercontent.com/56324728/87433331-91935a00-c5bf-11ea-8f60-63cc95788ee6.png)](https://www.linkedin.com/in/diegocorreacouto/) 
 
