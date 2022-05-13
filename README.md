@@ -11,6 +11,7 @@
 - Atualmente trabalho e foco meu estudo em **Java**, Spring Boot, APIs REST.
 - Tenho conhecimento em JUnit, Mockito, SonarQube, Git, SQL, Metodologias Ágeis (Scrum).
 - Já atuei em projetos como full stack utilizando Angular e Angularjs. 
+- No momento, estou estudando AWS e arquitetura de microserviços
 
 <!--
 **dccouto/dccouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
