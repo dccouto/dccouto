@@ -10,7 +10,7 @@
 - Me considero **dedicado, autodidata, próativo, focado e com perfil de trabalho em equipe e liderança**.
 - Atualmente trabalho e foco meu estudo em **Java**, Spring Boot, APIs REST.
 - Tenho conhecimento em JUnit, Mockito, SonarQube, Git, SQL, Metodologias Ágeis (Scrum).
-- Já atuei em projetos como full stack utilizando Angular e Angularjs. 
+- Já atuei em projetos como full stack utilizando Angular, AngularJS e Thymeleaf. 
 - No momento, estou estudando AWS e arquitetura de microserviços
 
 <!--
