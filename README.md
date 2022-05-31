@@ -1,6 +1,6 @@
 ### 👋 Bem vindo ao meu github!
 
-# Diego Couto :point_right: <img src="https://komarev.com/ghpvc/?username=dccouto" alt="dccouto" />
+# Diego Couto
 
 [![linkedin: Diego Couto](https://img.shields.io/badge/-Diego%20Couto-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegocorreacouto/)](https://www.linkedin.com/in/diegocorreacouto/) 
 
