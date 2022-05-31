@@ -2,7 +2,7 @@
 
 # Diego Couto
 
-[![linkedin: Diego Couto](https://img.shields.io/badge/-Diego%20Couto-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegocorreacouto/)](https://www.linkedin.com/in/diegocorreacouto/) 
+[![linkedin: Diego Couto](https://img.shields.io/badge/-Diego%20Couto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegocorreacouto/)](https://www.linkedin.com/in/diegocorreacouto/) 
 
 ### Analista Desenvolvedor na [**TO Brasil**](https://to-brasil.com/)
 
