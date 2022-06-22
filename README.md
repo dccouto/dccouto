@@ -13,6 +13,7 @@
 - Tenho conhecimento em JUnit, Spring WebFlux, Mockito, SonarQube, Git, SQL e Metodologias Ágeis (Scrum).
 - Já atuei em projetos como full stack utilizando Angular, AngularJS e Thymeleaf. 
 - No momento, estou estudando AWS, Spring WebFlux e arquitetura de microserviços
+![o-certified-junior-associate-clr](https://user-images.githubusercontent.com/53017748/175118984-9b99c3bc-93d2-46e6-8d2b-118c107e5def.gif)
 
 <!--
 **dccouto/dccouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
