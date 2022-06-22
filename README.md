@@ -3,7 +3,6 @@
 # Diego Couto
 
 [![linkedin: Diego Couto](https://img.shields.io/badge/-Diego%20Couto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegocorreacouto/)](https://www.linkedin.com/in/diegocorreacouto/) 
-
 [![](https://img.shields.io/badge/Buy_Me_a_coffee!-red?style=flat&logo=buy-me-a-coffee&logoColor=black&link=https://user-images.githubusercontent.com/53017748/175069759-6bf2473d-6f3c-4b0d-a694-2d86f46d39c4.png)](https://user-images.githubusercontent.com/53017748/175069759-6bf2473d-6f3c-4b0d-a694-2d86f46d39c4.png)
 
 ### Analista Desenvolvedor na [**TO Brasil**](https://to-brasil.com/)
