@@ -1,4 +1,4 @@
-### 👋 Bem vindo ao meu github!
+### 👋 Bem vindo ao meu github! 💻
 
 # Diego Couto
 
