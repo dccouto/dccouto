@@ -9,7 +9,7 @@
 
 - Estou em constante **desenvolvimento** e sempre buscando **aprimorar e adquirir novos conhecimento**s, além de estar sempre me **desafiando**, o que me motiva a descobrir melhores soluções.
 - Me considero **dedicado, autodidata, próativo, focado e com perfil de trabalho em equipe e liderança**.
-- Atualmente trabalho e foco meu estudo em **Java** utilizando <a href="#"> ![](https://api.iconify.design/logos:spring.svg) </a> e desenvolvendo APIs REST.
+- Atualmente trabalho e foco meu estudo em **Java** utilizando <a href="#">![](https://api.iconify.design/logos:spring.svg)</a> e desenvolvendo APIs REST.
 - Tenho conhecimento em JUnit, Spring WebFlux, Mockito, SonarQube, Git, SQL e Metodologias Ágeis (Scrum).
 - Já atuei em projetos como full stack utilizando Angular, AngularJS e Thymeleaf. 
 - No momento, estou estudando AWS, Spring WebFlux e arquitetura de microserviços
