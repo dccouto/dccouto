@@ -16,7 +16,7 @@
 
 <a href="#"><img width="119" alt="02a_Java_Foundations_Associate" src="https://user-images.githubusercontent.com/53017748/175122007-1dc88172-4dca-44f0-a5b0-6e7cc64686a1.png"></a>
 <a href="#"><img width="119" alt="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" src="https://user-images.githubusercontent.com/53017748/175121484-d29f3e64-cfe2-4fea-94cd-962caf6a0482.jpg"></a>
-<a href="#"><img width="119" alt="Scrume Foundations" src="https://user-images.githubusercontent.com/53017748/175123059-d7f774be-c1ac-49a8-9915-7d53b863842f.png"></a>
+<a href="#"><img width="119" alt="Scrum Foundations" src="https://user-images.githubusercontent.com/53017748/175123059-d7f774be-c1ac-49a8-9915-7d53b863842f.png"></a>
 
 
 <!--
