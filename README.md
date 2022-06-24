@@ -14,10 +14,12 @@
 - Já atuei em projetos como full stack utilizando Angular, AngularJS e Thymeleaf. 
 - No momento, estou estudando AWS, Spring WebFlux e arquitetura de microserviços
 
-<a href="#"><img width="119" alt="02a_Java_Foundations_Associate" src="https://user-images.githubusercontent.com/53017748/175122007-1dc88172-4dca-44f0-a5b0-6e7cc64686a1.png"></a>
-<a href="#"><img width="119" alt="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" src="https://user-images.githubusercontent.com/53017748/175121484-d29f3e64-cfe2-4fea-94cd-962caf6a0482.jpg"></a>
-<a href="#"><img width="119" alt="Scrum Foundations" src="https://user-images.githubusercontent.com/53017748/175123059-d7f774be-c1ac-49a8-9915-7d53b863842f.png"></a>
-<a href="#"><img width="119" alt="Scrum Foundations" src="https://user-images.githubusercontent.com/53017748/175184290-7286ee1b-a4dd-4b09-b626-41efa6139d04.png"></a>
+<a href="#"><img width="119" alt="02a_Java_Foundations_Associate" src="https://user-images.githubusercontent.com/53017748/175665269-4cc01ed3-fcf3-407b-a566-99827e7b2c77.png"></a>
+<a href="#"><img width="119" alt="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" src="https://user-images.githubusercontent.com/53017748/175664845-a61da471-73aa-4d47-831c-54a145a5e752.jpg"></a>
+<a href="#"><img width="119" alt="Scrum Foundations" src="https://user-images.githubusercontent.com/53017748/175665398-72ff112d-1461-403e-be29-1a3a37f950af.png"></a>
+<a href="#"><img width="119" alt="White Belt" src="https://user-images.githubusercontent.com/53017748/175665563-5a400a78-c2b6-4a43-9209-66c5a78c3375.png"></a>
+
+
 
 
 <!--
