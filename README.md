@@ -12,7 +12,7 @@
 - Atualmente trabalho e foco meu estudo em **Java** utilizando <a href="#">![](https://api.iconify.design/logos:spring.svg)</a> e desenvolvendo APIs REST.
 - Tenho conhecimento em JUnit, Spring WebFlux, Mockito, SonarQube, Git, SQL e Metodologias Ágeis (Scrum).
 - Já atuei em projetos como full stack utilizando Angular, AngularJS e Thymeleaf. 
-- No momento, estou estudando AWS, Spring WebFlux, Redis e arquitetura de microserviços
+- No momento, estou estudando AWS, Spring WebFlux, Redis, arquitetura de microserviços e analise de vulnerabilidades em sistemas Web e Java.
 
 <a href="#"><img width="119" title="Java Foundations Associate" src="https://user-images.githubusercontent.com/53017748/175665269-4cc01ed3-fcf3-407b-a566-99827e7b2c77.png"></a>
 <a href="#"><img width="119" title="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" src="https://user-images.githubusercontent.com/53017748/175664845-a61da471-73aa-4d47-831c-54a145a5e752.jpg"></a>
