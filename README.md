@@ -16,9 +16,10 @@
 
 <a href="#"><img width="119" title="Java Foundations Associate" src="https://user-images.githubusercontent.com/53017748/175665269-4cc01ed3-fcf3-407b-a566-99827e7b2c77.png"></a>
 <a href="#"><img width="119" title="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" src="https://user-images.githubusercontent.com/53017748/175664845-a61da471-73aa-4d47-831c-54a145a5e752.jpg"></a>
-<a href="#"><img width="119" title="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/53017748/203068338-0699b38f-a33b-4595-bdf2-8f97313a4ff1.png"></a>
+<a href="#"><img width="119" title="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/53017748/205511889-affc982c-7247-4745-844f-b9c89a07ebfc.png"></a>
 <a href="#"><img width="119px" title="Scrum Foundations" src="https://user-images.githubusercontent.com/53017748/175665398-72ff112d-1461-403e-be29-1a3a37f950af.png"></a>
 <a href="#"><img width="119" title="White Belt" src="https://user-images.githubusercontent.com/53017748/175665563-5a400a78-c2b6-4a43-9209-66c5a78c3375.png"></a>
+
 
 <!--
 **dccouto/dccouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
