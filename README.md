@@ -1,11 +1,12 @@
 ### 👋 Bem vindo ao meu github! 💻
 
+
 # Diego Couto
 
 <!-- [![linkedin: Diego Couto](https://img.shields.io/badge/-Diego%20Couto-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegocorreacouto/)](https://www.linkedin.com/in/diegocorreacouto/) -->
 [![](https://img.shields.io/badge/Buy_Me_a_coffee!-red?style=flat&logo=buy-me-a-coffee&logoColor=black&link=https://user-images.githubusercontent.com/53017748/175069759-6bf2473d-6f3c-4b0d-a694-2d86f46d39c4.png)](https://user-images.githubusercontent.com/53017748/175069759-6bf2473d-6f3c-4b0d-a694-2d86f46d39c4.png)
 
-### Analista Desenvolvedor <a href="#"><img title="Java" style="width: 20px;" src="https://api.iconify.design/logos:java.svg"></a> <a href="#"><img title="Flutter" style="width: 20px;" src="https://github.com/dccouto/dccouto/assets/53017748/69967748-6540-4c02-abb6-e93e52da1250"></a> <!-- na [**TO Brasil**](https://to-brasil.com/) -->
+### Analista Desenvolvedor <a href="#"><img title="Java" style="width: 20px;" src="https://api.iconify.design/logos:java.svg"></a> <a href="#"><img title="Flutter" style="width: 20px;" src="https://github.com/dccouto/dccouto/assets/53017748/69967748-6540-4c02-abb6-e93e52da1250">    <a href="#"><img title="Kotlin" style="width: 20px;" src="https://github.com/dccouto/dccouto/assets/53017748/97bc3075-2433-4a8a-a5f6-82ca50974fea"></a> <!-- na [**TO Brasil**](https://to-brasil.com/) -->
 
 - Estou em constante **desenvolvimento** e sempre buscando **aprimorar e adquirir novos conhecimento**s, além de estar sempre me **desafiando**, o que me motiva a descobrir melhores soluções.
 - Me considero **dedicado, autodidata, próativo, focado e com perfil de trabalho em equipe e liderança**.
